@@ -1,0 +1,172 @@
+# Created by Octave 4.2.1, Sat Oct 14 06:19:03 2017 -03 <fernando@fernando-Inspiron-1525>
+# name: DATA
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: K
+# type: scalar
+1
+
+
+# name: A
+# type: scalar
+1
+
+
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 422.48 19.995
+
+
+# name: BSImax
+# type: scalar
+28.07896516203409
+
+
+# name: BSI1
+# type: scalar
+6.631083614206942
+
+
+# name: BSI01
+# type: scalar
+7.384029939357403
+
+
+# name: BSI00
+# type: scalar
+13.47389651219545
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: K
+# type: scalar
+1
+
+
+# name: A
+# type: scalar
+1
+
+
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 400.055 142.45
+
+
+# name: BSImax
+# type: scalar
+28.07896516203409
+
+
+# name: BSI1
+# type: scalar
+11.85720403755455
+
+
+# name: BSI01
+# type: scalar
+12.69590326707735
+
+
+# name: BSI00
+# type: scalar
+20.47760628245565
+
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: K
+# type: scalar
+1
+
+
+# name: A
+# type: scalar
+1
+
+
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 124.045 318.82
+
+
+# name: BSImax
+# type: scalar
+28.07896516203409
+
+
+# name: BSI1
+# type: scalar
+3.58501806196492
+
+
+# name: BSI01
+# type: scalar
+3.616133744119761
+
+
+# name: BSI00
+# type: scalar
+5.265654915743933
+
+
+
+
+
+
+
