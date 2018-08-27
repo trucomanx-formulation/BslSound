@@ -1,0 +1,832 @@
+# Created by Octave 4.2.1, Sat Oct 14 19:03:12 2017 BRT <fernando@fernando-Inspiron-5547>
+# name: CONFDATA
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 4
+# name: IDDEAD
+# type: matrix
+# rows: 1
+# columns: 7
+ 25 29 63 80 86 88 97
+
+
+# name: IDLIVE
+# type: matrix
+# rows: 1
+# columns: 7
+ 1 2 3 5 6 8 9
+
+
+# name: DATADEAD
+# type: cell
+# rows: 1
+# columns: 7
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 408.975 179.165
+
+
+# name: BSIA
+# type: scalar
+20.53362204724402
+
+
+# name: BSIT
+# type: scalar
+21.51229897734598
+
+
+# name: BSI1
+# type: scalar
+10.03421271403401
+
+
+# name: BSI01
+# type: scalar
+10.50402012871173
+
+
+# name: BSI00
+# type: scalar
+15.70165889952484
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 407.15 201.885
+
+
+# name: BSIA
+# type: scalar
+22.16673228346448
+
+
+# name: BSIT
+# type: scalar
+22.84916060840031
+
+
+# name: BSI1
+# type: scalar
+10.75111068418038
+
+
+# name: BSI01
+# type: scalar
+11.46888649560449
+
+
+# name: BSI00
+# type: scalar
+16.34977105525784
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 384.575 183.82
+
+
+# name: BSIA
+# type: scalar
+20.78720472440951
+
+
+# name: BSIT
+# type: scalar
+24.06911649785881
+
+
+# name: BSI1
+# type: scalar
+10.19009434592808
+
+
+# name: BSI01
+# type: scalar
+10.78337874315594
+
+
+# name: BSI00
+# type: scalar
+18.90505212750513
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 400.515 186.255
+
+
+# name: BSIA
+# type: scalar
+23.39944881889772
+
+
+# name: BSIT
+# type: scalar
+24.8194874407231
+
+
+# name: BSI1
+# type: scalar
+11.47184535470685
+
+
+# name: BSI01
+# type: scalar
+11.98649681394504
+
+
+# name: BSI00
+# type: scalar
+18.38149638308579
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 389.61 179.355
+
+
+# name: BSIA
+# type: scalar
+19.6411811023622
+
+
+# name: BSIT
+# type: scalar
+24.46475372058657
+
+
+# name: BSI1
+# type: scalar
+9.378787408157939
+
+
+# name: BSI01
+# type: scalar
+10.58296835489828
+
+
+# name: BSI00
+# type: scalar
+19.75823558566927
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 399.04 211.795
+
+
+# name: BSIA
+# type: scalar
+25.57070866141735
+
+
+# name: BSIT
+# type: scalar
+27.40169819232236
+
+
+# name: BSI1
+# type: scalar
+12.42224314567057
+
+
+# name: BSI01
+# type: scalar
+13.48219796633387
+
+
+# name: BSI00
+# type: scalar
+20.05261648240177
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 422.37 262.615
+
+
+# name: BSIA
+# type: scalar
+20.30165354330721
+
+
+# name: BSIT
+# type: scalar
+23.27227891408647
+
+
+# name: BSI1
+# type: scalar
+9.959262249629582
+
+
+# name: BSI01
+# type: scalar
+10.57657193818487
+
+
+# name: BSI00
+# type: scalar
+18.13403550320837
+
+
+
+
+
+
+
+
+
+
+# name: DATALIVE
+# type: cell
+# rows: 1
+# columns: 7
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 380.705 202.63
+
+
+# name: BSIA
+# type: scalar
+19.58897637795281
+
+
+# name: BSIT
+# type: scalar
+23.19516613459056
+
+
+# name: BSI1
+# type: scalar
+9.652157458373331
+
+
+# name: BSI01
+# type: scalar
+10.17003105999756
+
+
+# name: BSI00
+# type: scalar
+18.46664348773917
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 397.48 201.815
+
+
+# name: BSIA
+# type: scalar
+25.42456692913386
+
+
+# name: BSIT
+# type: scalar
+28.85998635022194
+
+
+# name: BSI1
+# type: scalar
+12.28115285795026
+
+
+# name: BSI01
+# type: scalar
+13.28095415063556
+
+
+# name: BSI00
+# type: scalar
+22.13784729225389
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 405.005 221.22
+
+
+# name: BSIA
+# type: scalar
+25.65834645669309
+
+
+# name: BSIT
+# type: scalar
+28.40042885953721
+
+
+# name: BSI1
+# type: scalar
+12.62651670075072
+
+
+# name: BSI01
+# type: scalar
+13.04837436576372
+
+
+# name: BSI00
+# type: scalar
+21.53421142771289
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 379.395 228.185
+
+
+# name: BSIA
+# type: scalar
+24.70653543307086
+
+
+# name: BSIT
+# type: scalar
+28.95156033341935
+
+
+# name: BSI1
+# type: scalar
+12.03754985955863
+
+
+# name: BSI01
+# type: scalar
+12.90519091151485
+
+
+# name: BSI00
+# type: scalar
+22.71930310055013
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 399.955 221.27
+
+
+# name: BSIA
+# type: scalar
+24.88677165354332
+
+
+# name: BSIT
+# type: scalar
+30.32724048826578
+
+
+# name: BSI1
+# type: scalar
+12.12016362049793
+
+
+# name: BSI01
+# type: scalar
+13.28472951477617
+
+
+# name: BSI00
+# type: scalar
+24.28838161235796
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 406.095 199.1
+
+
+# name: BSIA
+# type: scalar
+22.93468503937022
+
+
+# name: BSIT
+# type: scalar
+26.99284309862789
+
+
+# name: BSI1
+# type: scalar
+11.35396622801539
+
+
+# name: BSI01
+# type: scalar
+11.98438041954913
+
+
+# name: BSI00
+# type: scalar
+21.34332264203586
+
+
+
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: RADIUS
+# type: scalar
+10
+
+
+# name: NPOINTS
+# type: scalar
+200
+
+
+# name: POINT0
+# type: matrix
+# rows: 1
+# columns: 2
+ 394.775 204.905
+
+
+# name: BSIA
+# type: scalar
+24.02503937007872
+
+
+# name: BSIT
+# type: scalar
+28.96919010347862
+
+
+# name: BSI1
+# type: scalar
+11.65008874324685
+
+
+# name: BSI01
+# type: scalar
+12.69255661167504
+
+
+# name: BSI00
+# type: scalar
+23.05793125344442
+
+
+
+
+
+
+
+
+
+
+
+
